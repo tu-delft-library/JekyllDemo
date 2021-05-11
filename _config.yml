@@ -7,6 +7,10 @@ description: Temporary Pages for TU Delft Library Programme
 remote_theme: just-the-docs
 plugins:
   - jekyll-feed
+  
+layout: default
+title: Customization
+nav_order: 4
 
 # Exclude from processing.
 # The following items will not be processed, by default.
