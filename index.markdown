@@ -5,7 +5,7 @@
 layout: home
 ---
 
-### 
+Oh, wait is this the home page,
 
 
 
