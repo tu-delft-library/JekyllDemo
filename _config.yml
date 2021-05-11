@@ -4,7 +4,7 @@ title: Digital Service Programme
 description: Temporary Pages for TU Delft Library Programme
 
 # Build settings
-theme: minima
+remote_theme: just-the-docs
 plugins:
   - jekyll-feed
 
