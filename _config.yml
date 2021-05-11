@@ -9,7 +9,6 @@ plugins:
   - jekyll-feed
   
 layout: default
-title: Customization
 nav_order: 4
 
 # Exclude from processing.
